@@ -75,6 +75,12 @@ const Contact = () => {
 		 </div>
 		</div>
 	 </div>
+	 <div className='m-4'>
+		<p>Developed with ❤️ by {" "}
+			<a href="https://ahtasham-dev.vercel.app" className='hover:text-amber-200 transition duration-300' target='_blank'>Ahtasham</a>
+		</p>
+	 </div>
+
 	</footer>
  )
 }
